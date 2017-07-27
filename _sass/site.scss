@@ -16,9 +16,7 @@ body {
 	font-family: $font1;
 	@include font-rem($doc-font-size);
 	color: $color_tuatara;
-    background-color: #ec008c;  /* fallback for old browsers */
-    background: -webkit-linear-gradient(to right, #fc6767, #ec008c);  /* Chrome 10-25, Safari 5.1-6 */
-    background: linear-gradient(to right, #fc6767, #ec008c); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    background-color: $bodycolor;  /* fallback for old browsers */
     background-position: center center;
 	background-attachment: fixed;
 	@media #{$small} {
