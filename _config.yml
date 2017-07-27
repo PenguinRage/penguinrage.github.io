@@ -5,7 +5,7 @@ description:        "This site is a personal page for myself and my github."
 reading_time:       true
 words_per_minute:   200
 logo:               'assets/img/me.jpg'
-background:         'assets/img/1.jpg'
+background:         ''
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
 url:                https://penguinrage.github.io
@@ -26,7 +26,7 @@ sass:
   style:            compressed
 
 # Comments
-disqus_shortname:   taylantatli
+disqus_shortname:   PenguinRage
 
 # Social
 # if you don't have any of social below, comment the line.
