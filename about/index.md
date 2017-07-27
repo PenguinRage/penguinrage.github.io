@@ -1,8 +1,8 @@
 ---
 layout: page
-title: About the Theme
-tags: [about, Jekyll, theme, moon]
-date: 2016-03-21
+title: About Ian
+tags: [programming, git, cryptography, basic introduction]
+date: 2017-07-27
 comments: false
 ---
     
