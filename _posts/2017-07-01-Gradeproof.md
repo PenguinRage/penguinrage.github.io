@@ -20,9 +20,11 @@ it's frameworks and libraries to build the product.
 
 ## Preview
 {% capture images %}
-
+    http://penguinrage.github.io/assets/img/rules.png
+    http://penguinrage.github.io/assets/img/rule.png
+    http://penguinrage.github.io/assets/img/platforms.png
 {% endcapture %}
-{% include gallery images=images caption="Screenshots of Moon Theme" cols=3 %}
+{% include gallery images=images caption="Screenshoots of Dashboard" cols=3 %}
 
 
 
