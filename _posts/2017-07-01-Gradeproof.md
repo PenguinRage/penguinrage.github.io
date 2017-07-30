@@ -9,7 +9,6 @@ tag:
 comments: false
 ---
 
-![Gradeproof](http://penguinrage.github.io/assets/img/gradeproof.png)
 
 # What is Gradeproof
 GradeProof is a proofreading service that is more than just a spelling and grammar checker. It offers intelligent rephrasing suggestions to not only correct your writing, but to refine your phrasing and make it eloquent.
