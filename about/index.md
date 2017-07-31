@@ -11,7 +11,7 @@ This is a personal site that acts as front page for my Git repository. The purpo
 importance that relates to me. The site offers a direct link to my repositories and my contact email address. The site
 also offers:
 
-* GPG public key
+* PGP public key
 * Previous projects
 * IT relevant posts
 
