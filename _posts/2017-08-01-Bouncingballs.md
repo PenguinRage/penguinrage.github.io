@@ -18,6 +18,6 @@ Made a small Processing application where balls are loaded upon user mouse click
 
 {% capture images %}
     https://raw.githubusercontent.com/PenguinRage/BouncingBalls/master/BouncingParticles/images/balls.png
-    https://github.com/PenguinRage/BouncingBalls/blob/master/BouncingParticles/images/balls2.png
+    https://raw.githubusercontent.com/PenguinRage/BouncingBalls/master/BouncingParticles/images/balls2.png
 {% endcapture %}
 {% include gallery images=images caption="examples of application" cols=2 %}
