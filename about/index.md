@@ -19,7 +19,6 @@ also offers:
 Some things about me:
 
 * Recently graduated from University of Sydney with a bachelor of computer science.
-* I'm a trust level 3 contributer to Manjaro.
 * I like snowboarding, programming, machine learning and cryptography.
 * I have programmed with multiple programming paradyms such as functional, logic-based, imperative and object oriented
   languages.
