@@ -5,7 +5,6 @@ description:        "This site is a personal page for myself and my github."
 reading_time:       true
 words_per_minute:   200
 logo:               'assets/img/profile_image.jpg'
-background:         ''
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
 url:                https://penguinrage.github.io
