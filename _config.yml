@@ -36,10 +36,10 @@ disqus_shortname:   PenguinRage
   #ad-client:
   #ad-slot:
 #bing-verify:
-email:              icleasby@protonmail.com
-#twitter:           username
+#email:            username 
+twitter:           penguinrage
 #facebook:          username
-github-url:         penguinrage
+github-url:        penguinrage
 #stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
 #linkedin:          username
 #xing:              username
