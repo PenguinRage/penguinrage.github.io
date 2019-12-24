@@ -1,7 +1,7 @@
 # Site
 title:              Ian Cleasby
 bio:                'Programmer & System Admin'
-description:        "This site is a personal page for myself and my github."
+description:        "Personal site for myself and my github."
 reading_time:       true
 words_per_minute:   200
 logo:               'assets/img/profile_image.jpg'
