@@ -18,6 +18,8 @@ comments: false
 Updated my Banking Metrics to collect incoming payments and also current account details. This was added additionally to the outgoing payments.
 
 {% capture images %}
-http://penguinrage.github.io/assets/img/Screenshot_20240328.png
+http://penguinrage.github.io/assets/img/bankmetric1.png
+http://penguinrage.github.io/assets/img/bankmetric2.png
+http://penguinrage.github.io/assets/img/bankmetric3.png
 {% endcapture %}
 {% include gallery images=images caption="examples of application" cols=2 %}
